@@ -58,7 +58,7 @@ Coffee/
 
 - Clone the repository
 ``` 
-git clone https://github.com/your-username/Coffee.git 
+git clone https://github.com/shekhar-s93/Coffee.git 
 ```
 
 - Open the project folder where you clone this repository
